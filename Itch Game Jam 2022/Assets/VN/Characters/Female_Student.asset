@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec18a185a5b7ade499fd982e28e04386, type: 3}
+  m_Name: Female_Student
+  m_EditorClassIdentifier: 
+  characterName: FemaleStudent
+  imageArray:
+  - {fileID: 21300000, guid: 85fabf36b2a484342b3e4a67f8427249, type: 3}
+  - {fileID: 21300000, guid: e508c481a58330a4caae72db58de1065, type: 3}
+  - {fileID: 21300000, guid: 9e15adef96aa2554595d1ac63f68816c, type: 3}

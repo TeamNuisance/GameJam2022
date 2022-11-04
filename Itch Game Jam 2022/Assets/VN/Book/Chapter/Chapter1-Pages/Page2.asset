@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed4b53a2a053e074082217025365bc7c, type: 3}
+  m_Name: Page2
+  m_EditorClassIdentifier: 
+  page_Title: 1
+  title_Text: Female
+  vn_Text: This is the 2nd page!!!!
+  elementType: 0
+  choiceTextArray: []
+  choiceNextArray: 
+  defaultNextPage: 2
+  enterAnimationArray: 0100000002000000
+  exitAnimationArray: 0000000000000000
+  backgroundTriggerObject: {fileID: 6118085917365742472, guid: ddb6a686e2dbe324d86c49f831bfccb8, type: 3}
+  display_Text: 1
+  display_Title: 1
+  display_Actors: 1
+  display_Background: 1
+  actorLibrary:
+  - {fileID: 11400000, guid: 71a0243ea5bc07e4abff1718991228db, type: 2}
+  - {fileID: 11400000, guid: eec328d3e8ff1e54f878f3dfa0044b51, type: 2}
+  actorSpriteLibrary: 0000000000000000
+  background_Image: {fileID: 2100000, guid: 85cc8699c44df944c91c45f87c56e8de, type: 2}
